@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="42" started-at="2017-01-16T08:13:24Z" finished-at="2017-01-16T08:13:24Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="42" started-at="2017-01-16T08:13:24Z" finished-at="2017-01-16T08:13:24Z">
+      <class name="SSMTestCases.logi2">
+        <test-method status="PASS" signature="letsdo()[pri:0, instance:SSMTestCases.logi2@26be92ad]" name="letsdo" duration-ms="17" started-at="2017-01-16T13:43:24Z" finished-at="2017-01-16T13:43:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- letsdo -->
+      </class> <!-- SSMTestCases.logi2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
